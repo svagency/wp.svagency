@@ -49,15 +49,15 @@ define( 'DB_COLLATE', '' );
  *
  * @since 2.6.0
  */
-define( 'AUTH_KEY',          '3%PvTe)Z)[Js]#6h[aTME+JeM*As=}IRM@WH/^ND,II?TZIT]HK+lCN#N mTiXU*' );
-define( 'SECURE_AUTH_KEY',   'g~;yB_QOZf/Srtdf@Uh-H98/<w6<?gxfn*X+u+tYI<YBhKF.8)n|a{%v&2LJ8?b*' );
-define( 'LOGGED_IN_KEY',     's)Fvelx+w&NEQaHnr6I6@{SOUU_R$F|w^,S1E*QZ?2M/A~_+bR@xDIiDK7JFj1|2' );
-define( 'NONCE_KEY',         '_7D@h?xYbE5s.ekql#*enY5hp8Xba+MjtZ,(AKfJW.N$l.d5SEs$#-1gSAhO?.?1' );
-define( 'AUTH_SALT',         '0LY@3A]k?%k=z=r{&j]oI;W[JhA%!0dA^|=6!s]@eLD:vSb9P!z<Mh/%(n%{{qn0' );
-define( 'SECURE_AUTH_SALT',  'YElWdH&Y>Xo0-td+<T~`%(X2]`SfxyQpF>DpR!j>O@h8vZ>}%uOHXJ=1G$nKGZSL' );
-define( 'LOGGED_IN_SALT',    'iE7d$]0&=}DSKMO>8O3L6i^?wKt>}hhXW8[! 8!6~W~PD#n)_Xz5:)-:g2z:*qIh' );
-define( 'NONCE_SALT',        '7nEM&:W8-q?|50#;# 5,WxA!1hT*>qH5Dd:~.~xQv_z@Zx&c!4A{G)D~JMUhzTSF' );
-define( 'WP_CACHE_KEY_SALT', 'Q26zsz +<Z6Ig?A2*N/yaufVcL:uZE[5$SsMh8YiR8@g}x.p~O)zafOEz=(yA9Sd' );
+define( 'AUTH_KEY',          'aY0uF%BH,<{(1@AR,E2wpGd!v0HG7L:<hO${TVoV+q.rNbMzMV-FOee9ng=RC:~.' );
+define( 'SECURE_AUTH_KEY',   'jS)]4%Dmq^BUzS>,A|7xgbUz$`2%9,LdAN `3^cc.$vbrul+X[NUSB;|Su&bMg0z' );
+define( 'LOGGED_IN_KEY',     '(5_bz*UV,@y)#&N|qHxnt|Eq(I4nX.+!g]X.3Y3_O,=FzF9t|QmXC#n0,[Z|qa,?' );
+define( 'NONCE_KEY',         'T:H-lXws|)ko*nCa,Vk+4!_9e{AD(G{4U_f)Sd&D[1N$d?%bK&gA$AtV4[y_o8rl' );
+define( 'AUTH_SALT',         '$q,ts^,JvX#yOH04{/BT/Wc`o|rOxX~c.Bs*G1K7RR.oU6e=<Z?BW]`)Jz*[o&wm' );
+define( 'SECURE_AUTH_SALT',  '*oQ+3k D]xnW3&2`Z>}StfC@1UxR&c2isX@>}LbCX17v|&%o]Q::@y2>P={tgp2}' );
+define( 'LOGGED_IN_SALT',    '>f$}*eZMc.Jh[ad}nDC)76Yw6*= ~%P:Qlk-HT[bWbuca6#h`V7ufujU:|8zZR=T' );
+define( 'NONCE_SALT',        'f%) `B<Lq5kwPCorv.NlDZN%}q{RR7i=IcofHBTH+wM%/mf~K:05z;.?_~,p#~N&' );
+define( 'WP_CACHE_KEY_SALT', 'y;uydrbX7^VDh$au#K}1r]OB{cvC|!l{4J8EZhL#F}vA v$oriNAGMA/Aa|2`#Lv' );
 
 
 /**#@-*/
@@ -97,10 +97,10 @@ define( 'WP_ALLOW_MULTISITE', true );
 define( 'MULTISITE', true );
 define( 'SUBDOMAIN_INSTALL', false );
 $base = '/';
-define( 'DOMAIN_CURRENT_SITE', 'svagency.local' );
+define( 'DOMAIN_CURRENT_SITE', 'sv-agency.local' );
 define( 'PATH_CURRENT_SITE', '/' );
-define( 'SITE_ID_CURRENT_SITE', 1 );
-define( 'BLOG_ID_CURRENT_SITE', 1 );
+define( 'SITE_ID_CURRENT_SITE', 2 );
+define( 'BLOG_ID_CURRENT_SITE', 2 );
 
 define( 'WP_ENVIRONMENT_TYPE', 'local' );
 /* That's all, stop editing! Happy publishing. */
